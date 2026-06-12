@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "IPI7YlSuC3H99eBVq57IyhrI7H9aqp3P02sgsKyI7W8",
+      "n": "0q2QPyHEtQqg3T3Ymh5n9YJ4ln7dkCeq6Lb3FxFEf7CqngbCYHcGDdJXMcSRy7UskHws7mXBpvr-pNjSgWoVZD42kGax5VKw_f-8Dct0OQZ70TJzvYquOqmSABHklcuTCKYqG6pqkwmBNEBAu9FxnnDZTvnezFKk2vnK-BXQtC6HkPS3e6bEOviVCk5Pci9UgW-c80somX7kKNvjpp-Lmea-BMsrwWq06Rp1DSPEew48Yq-kBwZGzODkkpyGGb1bZYlWr8wjdAXG7N0TAIi0BNI7gK4oHh7eTFlGCkePgQzCbjVXSUNYZVZGWpOjVIBHXdj_DhT1sst64iKjzGuC4w",
+      "e": "AQAB"
+    }
+  ]
+}
